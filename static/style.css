@@ -1,0 +1,9 @@
+body{
+  background:white;
+}
+.coolTab{
+  border-collapse: collapse;
+}
+.coolTab td{
+  border: 1px solid black;
+}
